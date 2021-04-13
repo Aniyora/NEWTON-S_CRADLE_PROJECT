@@ -1,1 +1,2 @@
-# NEWTON-S_CRADLE_PROJECT
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
